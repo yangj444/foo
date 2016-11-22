@@ -7,12 +7,7 @@
             "email": "daigangbo@gmail.com"
         }
     ],
-    "autoload": {
-         "psr-4": {
-            "gangbo\\foo\\": "src/",
-            "gangbo\\foo\\test\\": "test/"
-         }
-    },
+    
 	"minimum-stability": "dev",
     "require": {
         "yangj444/foo": "dev-master"
