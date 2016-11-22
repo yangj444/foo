@@ -1,15 +1,15 @@
 {
-    "name": "yangj444/foo",
-    "description": "test description",
-    "authors": [
+    "name":"yangj444/foo",
+    "description":"test description",
+    "authors":[
         {
-            "name": "yangj444",
-            "email": "daigangbo@gmail.com"
+            "name":"yangj444",
+            "email":"daigangbo@gmail.com"
         }
     ],
     
-	"minimum-stability": "dev",
-    "require": {
-        "yangj444/foo": "dev-master"
+	"minimum-stability":"dev",
+    "require":{
+        "yangj444/foo":"dev-master"
     }
 }
