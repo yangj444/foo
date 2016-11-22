@@ -12,5 +12,9 @@
             "gangbo\\foo\\": "src/",
             "gangbo\\foo\\test\\": "test/"
          }
+    },
+	"minimum-stability": "dev",
+    "require": {
+        "yangj444/foo": "dev-master"
     }
 }
